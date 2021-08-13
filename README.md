@@ -1,3 +1,10 @@
+# basic commands
+
+npm install -g @angular/cli - install angular
+ng new test - create new angular project
+ng g component composenents/car - generate component
+ng serve - run dev server
+
 # Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
